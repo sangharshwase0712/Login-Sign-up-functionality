@@ -1,0 +1,10 @@
+.login-background {
+  
+  background-color: white;
+  height: 100vh;
+}
+.btn{
+  font-size: 20px;
+  font-weight: 500;
+  width: 60%;
+}
